@@ -1,5 +1,6 @@
 # LIVEGRAPHIX
-Overview
+**Overview**
+
 This project is a real-time weather data visualization dashboard built with ReactJS, NodeJS, MongoDB, and PowerBI. The application collects, stores, and visualizes weather data, providing an interactive and insightful analysis through a PowerBI dashboard.
 
 **Features**
