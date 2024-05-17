@@ -51,8 +51,11 @@ npm start
 **Project Structure**
 
 LIVEGRAPHIX/
+
 │
+
 ├── server/
+
 │   ├── controllers/
 │   ├── models/
 │   ├── routes/
