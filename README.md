@@ -57,25 +57,45 @@ LIVEGRAPHIX/
 ├── server/
 
 │   ├── controllers/
+
 │   ├── models/
+
 │   ├── routes/
+
 │   ├── .env
+
 │   ├── app.js
+
 │   └── package.json
+
 │
+
 ├── client/
+
 │   ├── public/
+
 │   ├── src/
+
 |   |   ├── assets/
+
 │   │   ├── components/
+
 |   │   ├── data/
+
 |   │   ├── scenes/
+
 │   │   ├── pages/
+
 │   │   ├── App.js
+
 |   │   ├── theme.js
+
 │   │   └── index.js
+
 │   └── package.json
+
 │
+
 └── README.md
 
 **Configuration**
