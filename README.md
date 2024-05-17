@@ -76,9 +76,9 @@ LIVEGRAPHIX/
 
 │   ├── src/
 
-|   |   ├── assets/
+|      |   ├── assets/
 
-│   │   ├── components/
+│      │   ├── components/
 
 |   │   ├── data/
 
