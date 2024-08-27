@@ -24,14 +24,13 @@ This project is a real-time weather data visualization dashboard built with Reac
 **Installation**
 1. Clone the repository
 git clone https://github.com/Asifa-10/LIVEGRAPHIX.git
-cd weather-dashboard
 
 2. Install backend dependencies
-cd backend
+cd server
 npm install
 
 3. Install frontend dependencies
-cd ../frontend
+cd ../client
 npm install
 
 **Usage**
@@ -41,10 +40,10 @@ PORT=3001
 MONGODB_URI=mongodb://localhost:27017/employee
 
 3.Run the Backend Server
-cd backend
+cd server
 npm start
 4. Run the Frontend Development Server
-cd ../frontend
+cd ../client
 npm start
 5. Access the Application: Open your browser and navigate to http://localhost:3000.
 
@@ -80,11 +79,11 @@ LIVEGRAPHIX/
 
 │      │   ├── components/
 
-|   │   ├── data/
+|      │   ├── data/
 
-|   │   ├── scenes/
+|      │   ├── scenes/
 
-│   │   ├── pages/
+│      │   ├── pages/
 
 │   │   ├── App.js
 
